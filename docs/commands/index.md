@@ -3,6 +3,9 @@ title: Commands
 description: Various in depth information about the commands available to you
 ---
 
+# NOTE
+## Within the staging environment you are given more permissions, please adhere to these rules regardless. Or if told otherwise.
+
 # Commands
 This page goes over the generalized and summarized rules and important information about the commands available to you.
 
