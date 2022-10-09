@@ -6,7 +6,7 @@ description: This page outlines information about the contacts that you can use 
 # Contacts
 This page outlines the developers of the bot and their contact information. If you have any questions, please contact them.
 
-For features, bug reports, or general feedback, please open an issue on [Grid Bot Support](https://github.com/mfdlabs/grid-bot-support/issues). (Unless it is an extremely exploitable security vulnerability that threatens the security of the bot or it's users, please contact the developers directly or the information security team.)
+For features, bug reports, or general feedback, please open an issue on [Grid Bot Support](https://github.com/mfdlabs/grid-bot-support-stage/issues). (Unless it is an extremely exploitable security vulnerability that threatens the security of the bot or it's users, please contact the developers directly or the information security team.)
 
 ## Fill In For The Boyz
 FIFTB Describes any member of the stage/test environment.
