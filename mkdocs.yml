@@ -1,7 +1,7 @@
-site_name: "MFDLABS Grid Bot Documentation"
-site_url: "https://grid-bot.ops.vmminfra.net/"
-repo_name: "mfdlabs/grid-bot-support"
-repo_url: "https://github.com/mfdlabs/grid-bot-support/issues"
+site_name: "MFDLABS Grid Bot Documentation Stage"
+site_url: "https://grid-bot-stg.ops.vmminfra.net/"
+repo_name: "mfdlabs/grid-bot-support-stage"
+repo_url: "https://github.com/mfdlabs/grid-bot-support-stage/issues"
 edit_uri: ""
 remote_branch: deploy/docs-dev/docs-deploy
 
@@ -59,7 +59,7 @@ markdown_extensions:
 extra:
   social:
     - icon: material/application-brackets-outline
-      link: https://discord.com/api/oauth2/authorize?client_id=819791451436482600&permissions=2147798080&redirect_uri=https%3A%2F%2Fdiscord.gg%2FP76ERbsG6P&response_type=code&scope=bot%20applications.commands%20messages.read
+      link: https://discord.com/api/oauth2/authorize?client_id=883446355656343562&permissions=8&scope=bot%20applications.commands
       name: Discord Bot Invite Referrer
   analytics:
     provider: google
