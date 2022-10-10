@@ -1,7 +1,7 @@
 name: Security Vulnerabilty Report
 description: File a security vulnerability report, use this if you have discovered a security vulnerability and wish the internal team to investigate.
 title: "[Vulnerability]: "
-labels: ["Bug Report", "Security Vulnerability", "Mission Critical", "Requires Review", "Backlogged"]
+labels: ["type: bug-report", "type: security-vulnerability", "priority: mission-critical", "status: requires-review", "state: backlogged"]
 assignees: ["mfdlabs-ops", "mfdlabs-sec-ops"]
 body:
   - type: markdown
@@ -10,7 +10,7 @@ body:
   - type: checkboxes
     attributes:
       label: Check if there is an existing issue or pull request.
-      description: Please check the [issues](https://github.com/mfdlabs/grid-bot-support/issues) to determine if your vulnerability has already been filed.
+      description: Please check the [issues](https://github.com/mfdlabs/grid-bot-support-stage/issues) to determine if your vulnerability has already been filed.
       options:
       - label: "I double checked issues and couldn't find any duplicates."
         required: true
@@ -24,7 +24,7 @@ body:
   - type: checkboxes
     attributes:
       label: Have you read the Security Vulnerability Guidelines?
-      description: If you have read the [Security Vulnerability Guidelines](https://github.com/mfdlabs/grid-bot-support/blob/master/SECURITY.md), and this issue conforms to them, please check this box.
+      description: If you have read the [Security Vulnerability Guidelines](https://github.com/mfdlabs/grid-bot-support-stage/blob/master/SECURITY.md), and this issue conforms to them, please check this box.
       options:
       - label: I have read the Security Vulnerability Guidelines.
         required: true
