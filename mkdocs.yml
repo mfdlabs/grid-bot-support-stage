@@ -63,7 +63,7 @@ extra:
       name: Discord Bot Invite Referrer
   analytics:
     provider: google
-    property: G-QV4S1YRK2D
+    property: G-8FBM2HBSB9
   generator: false
 
 copyright: Copyright &copy; 2022 MFDLABS Corporation
