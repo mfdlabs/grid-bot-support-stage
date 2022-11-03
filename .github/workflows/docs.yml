@@ -32,8 +32,8 @@ jobs:
       
       - name: Configure Git user
         run: |
-          git config --local user.email "ops+grid-bot-stg-deploy@vmminfra.net"
-          git config --local user.name "Grid Bot Deploy Stage"
+          git config --local user.email "ops+grid-bot-gh-stg@vmminfra.net"
+          git config --local user.name "grid-bot-gh-stg"
       
       - name: Deploy docs
         run: |
